@@ -6,7 +6,7 @@
 			"type" : "object",
 			"properties" : {
 				"transaction_id" : { "type" : "number" },
-				"is_physical_merchant" : { "type" : "boolean" },
+				"is_physical_merchant" : { "enum" : [ true ] },
 				"store_name" : { "type" : "string" },
 				"store_id" : { "type" : "string" },
 				"category_id" : { "type" : "number"},
@@ -22,7 +22,7 @@
 			"type" : "object",
 			"properties" : {
 				"transaction_id" : { "type" : "number" },
-				"is_physical_merchant" : { "type" : "boolean" },
+				"is_physical_merchant" : { "enum" : [ false ] },
 				"merchant_name" : { "type" : "string" }
 			},
 			"required": ["transaction_id", "is_physical_merchant", "merchant_name"]
@@ -31,7 +31,7 @@
 			"type" : "object",
 			"properties" : {
 				"transaction_id" : { "type" : "number" },
-				"is_physical_merchant" : { "type" : "boolean" },
+				"is_physical_merchant" : { "enum" : [ false ] },
 				"category" : { "type" : "string" }
 			},
 			"required": ["transaction_id", "is_physical_merchant", "category"]
