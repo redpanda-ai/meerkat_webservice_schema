@@ -49,6 +49,7 @@
 			"type" : "number"
 		},
 		"transaction_list" : {
+			"description" : "An array containing at least one of the following response types.",
 			"type" : "array",
 			"items" : {
 				"oneOf": [
