@@ -7,16 +7,18 @@
 			"properties" : {
 				"transaction_id" : { "type" : "number" },
 				"is_physical_merchant" : { "enum" : [ true ] },
-				"store_name" : { "type" : "string" },
+				"merchant_name" : { "type" : "string" },
 				"store_id" : { "type" : "string" },
-				"category_id" : { "type" : "number"},
-				"factual_id" : { "type" : "string"},
+				"category_label" : { "type" : "string" },
+				"source" : { "enum": [ "FACTUAL", "OTHER" ] },
+				"source_merchant_id" : { "type" : "string" },
 				"street" : { "type" : "string" },
 				"city" : { "type" : "string" },
 				"state" : { "type" : "string" },
+				"country" : { "type" : "string" },
 				"postal_code" : { "type" : "string" }
 			},
-			"required": ["transaction_id", "is_physical_merchant", "factual_id"]
+			"required": ["transaction_id", "is_physical_merchant", "source_merchant_id", "country"]
 		},
 		"non_physical_merchant_response" : {
 			"type" : "object",
