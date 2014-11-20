@@ -9,7 +9,7 @@
 			"match_found" : true,
 			"merchant_name" : "Safeway",
 			"store_id" : "#12",
-			"category_label" : "Grocery",
+			"category_labels" : ["Grocery", "Pharmacy"],
 			"source" : "FACTUAL",
 			"source_merchant_id" : "3ec075f0-33c2-11e4-8c21-0800200c9a66",
 			"street" : "742 El Camino Real",
@@ -21,7 +21,7 @@
 		{
 			"transaction_id" : 2,
 			"is_physical_merchant" : false,
-			"category" : "bank_transfer"
+			"category_labels" : ["bank_transfer"]
 		},
 		{
 			"transaction_id" : 3,
