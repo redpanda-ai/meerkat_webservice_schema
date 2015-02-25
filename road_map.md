@@ -47,12 +47,12 @@ TASKS
 
 AGREEMENTS / DEADLINES
 ======================
-	B. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
-	C. 2/25 - Update the Meerkat daemon to give CT testing data.
-	D. 2/27 - Complete Update for column placement in Meerkat gpanel_v2
-	F. 2/28 - Release basic transaction origin prediction
-	G. 2/28 - Reduce EC2 infrastructure for Meerkat to 50 nodes.
-	H. 3/31 - Relesae shadow CT with end-to-end functionality
+	A. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
+	B. 2/25 - Update the Meerkat daemon to give CT testing data.
+	C. 2/27 - Complete Update for column placement in Meerkat gpanel_v2
+	D. 2/28 - Release basic transaction origin prediction
+	E. 2/28 - Reduce EC2 infrastructure for Meerkat to 50 nodes.
+	F. 3/31 - Relesae shadow CT with end-to-end functionality
 
 NOTES
 =====
