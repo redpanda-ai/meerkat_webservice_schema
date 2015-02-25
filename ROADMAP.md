@@ -2,7 +2,7 @@
 	1. Meerkat Team, Andy
 		__v1.0.0__ (due 2/28)
 		A. Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
-		B. Underway - Work with Richa
+		B. Underway - Work with Program Managment
 			1. Assist with complete schedule for v1.0.0 release
 				a.  thoughtful plan
 				b.  list tasks
@@ -10,7 +10,7 @@
 				d.  timeline with milestones
 
 		__v1.1.0__ (due 3/31)
-		C. Begins 3/1 - Work with Richa
+		C. Begins 3/1 - Work with Program Management
 			1. Assist with complete schedule for v1.1.0 release
 				a.  thoughtful plan
 				b.  list tasks
