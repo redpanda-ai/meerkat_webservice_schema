@@ -1,6 +1,6 @@
 ### TASKS
 #### Meerkat Team, Andy
-1.  **v1.0.0** *(release scheduled for 2/28)*
+1.  **v1.0.0** *(scheduled for 2/28)*
 	* - [ ] Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
 	* - [x] Underway - Work with Program Managment
 		* Assist with complete schedule for v1.0.0 release
@@ -9,7 +9,7 @@
 			* - [x] list dependencies
 			* - [x] timeline with milestones
 
-2.  **v1.1.0** *(release scheduled for 3/31)*
+2.  **v1.1.0** *(scheduled for 3/31)*
 	* Begins 3/1 - Work with Program Management
 		* - [ ] Assist with complete schedule for v1.1.0 release
 			* - [ ] thoughtful plan
@@ -39,7 +39,8 @@
 
 ### AGREEMENTS / DEADLINES
 #### v1.0.0
-* 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
+* 2/25 - Underway
+	* Does QA need a separate env?
 * 2/28 - Release basic transaction origin prediction
 
 #### v1.1.0
