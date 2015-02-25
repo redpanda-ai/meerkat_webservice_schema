@@ -1,17 +1,19 @@
 #COMPLETED
 
-# RECENTLY COMPLETED
-	## 2/24
-		* Matt
-			* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
-		* Andy
-			* Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
-			* Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
-			* Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
+RECENTLY COMPLETED
+==================
+__2/24__
+	1. Matt
+		* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
+	2. Andy
+		* Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
+		* Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
+		* Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
 
 TASKS
-	Andy
-		SOON
+=====
+	1. Andy
+		__SOON__
 		A. Due 2/25 - Launch a Meerkat daemon to handle CT testing data
 		B. Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
 		C. Due 2/27 - Update Meerkat daemon to handle column re-ordering
@@ -28,7 +30,7 @@ TASKS
 				b.  list tasks and dependencies
 				c.  timeline with milestones
 
-		LATER
+		__LATER__
 		G. Due 3/7 - Work with Richa
 			1. Provide you with a complete schedule for real-time Shadow Clustering Tool
 				a.  thoughtful plan
