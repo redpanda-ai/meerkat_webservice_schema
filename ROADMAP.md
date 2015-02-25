@@ -30,7 +30,7 @@
 	3.  Program Managment, Richa
 		A. Schedule a meeting with to figure out what our QA test environment is for integration
 			i.  Requires QA, Platform, and the Meerkat team.
-			ii.  __If__ the test environment is in the development VPC, we need to know soon.
+			ii. Find out which VPC the test environment is in, either dev VPC or production VPC 
 		B. Schedule a meeting to go over the transition from the pre-release version of Meerkat to v1.0.0
 			i.  Requires Operations, Platform, QA, and the Meerkat team
 
