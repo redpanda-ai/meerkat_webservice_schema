@@ -1,5 +1,3 @@
-#COMPLETED
-
 RECENTLY COMPLETED
 ==================
 __2/24__
