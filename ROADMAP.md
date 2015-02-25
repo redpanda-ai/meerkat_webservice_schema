@@ -13,9 +13,9 @@
 		C. Begins 3/1 - Work with Richa
 			1. Assist with complete schedule for v1.1.0 release
 				a.  thoughtful plan
-				b.  list tasks and dependencies
-				c.  timeline with milestones
-				d.  list dependencies
+				b.  list tasks
+				c.  list dependencies
+				d.  timeline with milestones
 		D. Due 3/31 - Think of a way to process set of "deep clean" regular expressions.
 			1.  Each bundle of regex expressions will serve as a merchant classifier
 			2.  Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
@@ -52,5 +52,4 @@
 			* Deploy Meerkat v1.0.0 to production VPC
 			* Set up a distribution list or equivalent for labels
 			* Obtain agreement on requiring "ledger_entry" in meerkat web service v1.0.0
-
 
