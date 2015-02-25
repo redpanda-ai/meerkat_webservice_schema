@@ -1,6 +1,6 @@
 ### TASKS
 #### Meerkat Team, Andy
-1.  v1.0.0 (due 2/28)
+1.  **v1.0.0** (due 2/28)
 	* - [ ] Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
 	* - [x] Underway - Work with Program Managment
 		* Assist with complete schedule for v1.0.0 release
@@ -9,7 +9,7 @@
 			* - [x] list dependencies
 			* - [x] timeline with milestones
 
-2.  v1.1.0 (due 3/31)
+2.  **v1.1.0** (due 3/31)
 	* Begins 3/1 - Work with Program Management
 		* - [ ] Assist with complete schedule for v1.1.0 release
 			* - [ ] thoughtful plan
@@ -22,15 +22,15 @@
 
 ### DEPENDENCIES
 #### v1.0.0 (due 2/28)
-1.  Platform Team, Saurabh
+1.  **Platform Team**, Saurabh
 	* Initiate standard change management process
 		* Change request for load balancer
 		* Decide when/whether to terminate the pre-release front-end instances
-2.  Operations Team, Bibek
+2.  **Operations Team**, Bibek
 	* Be ready to support the Platform Team
 	* Will the mechanism be change requests?
 	* How do we streamline this?
-3.  Program Managment, Richa
+3.  **Program Managment**, Richa
 	* Schedule a meeting with to figure out what our QA test environment is for integration
 		* Requires QA, Platform, and the Meerkat team.
 		* Find out which VPC the test environment is in, either dev VPC or production VPC 
