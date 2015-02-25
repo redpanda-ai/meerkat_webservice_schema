@@ -1,5 +1,5 @@
 ### TASKS
-	1. Andy
+	1. Meerkat Team, Andy
 		__v1.0.0__ (due 2/28)
 		A. Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
 		B. Work with Richa
@@ -19,14 +19,15 @@
 			2.  Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
 
 ### DEPENDENCIES
-	1.  Platform Team
+	__v1.0.0__ (due 2/28)
+	1.  Platform Team, Saurabh
 		A.  Initiate standard change management process
 			i.  Change request for load balancer
 			ii. Decide when/whether to terminate the pre-release front-end instances
-	2.  Operations Team
+	2.  Operations Team, Bibek
 		A.  Be ready to support the Platform Team
 			i.  Will the mechanism be change requests?  How do we streamline this?
-	3.  Richa
+	3.  Program Managment, Richa
 		A. Schedule a meeting with to figure out what our QA test environment is for integration
 			i.  Requires QA, Platform, and the Meerkat team.
 			ii.  __If__ the test environment is in the development VPC, we need to know soon.
