@@ -5,9 +5,9 @@
 		B. Underway - Work with Richa
 			1. Assist with complete schedule for v1.0.0 release
 				a.  thoughtful plan
-				b.  list tasks and dependencies
-				c.  timeline with milestones
-				d.  list dependencies
+				b.  list tasks
+				c.  list dependencies
+				d.  timeline with milestones
 
 		__v1.1.0__ (due 3/31)
 		C. Begins 3/1 - Work with Richa
