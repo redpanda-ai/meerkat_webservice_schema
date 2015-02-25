@@ -1,24 +1,24 @@
 ### TASKS
-	1. Meerkat Team, Andy
-		__v1.0.0__ (due 2/28)
-		A. Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
-		B. Underway - Work with Program Managment
-			1. Assist with complete schedule for v1.0.0 release
-				a.  thoughtful plan
-				b.  list tasks
-				c.  list dependencies
-				d.  timeline with milestones
+#### Meerkat Team, Andy
+1.  v1.0.0 (due 2/28)
+	A. Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
+	B. Underway - Work with Program Managment
+		* Assist with complete schedule for v1.0.0 release
+			* thoughtful plan
+			* list tasks
+			* list dependencies
+			* timeline with milestones
 
-		__v1.1.0__ (due 3/31)
-		C. Begins 3/1 - Work with Program Management
-			1. Assist with complete schedule for v1.1.0 release
-				a.  thoughtful plan
-				b.  list tasks
-				c.  list dependencies
-				d.  timeline with milestones
-		D. Due 3/31 - Think of a way to process set of "deep clean" regular expressions.
-			1.  Each bundle of regex expressions will serve as a merchant classifier
-			2.  Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
+2.  v1.1.0 (due 3/31)
+	A. Begins 3/1 - Work with Program Management
+		* Assist with complete schedule for v1.1.0 release
+			* thoughtful plan
+			* list tasks
+			* list dependencies
+			* timeline with milestones
+	B. Due 3/31 - Think of a way to process set of "deep clean" regular expressions.
+		* Each bundle of regex expressions will serve as a merchant classifier
+		* Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
 
 ### DEPENDENCIES
 #### v1.0.0 (due 2/28)
@@ -39,11 +39,11 @@
 
 ### AGREEMENTS / DEADLINES
 #### v1.0.0
-1. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
-2. 2/28 - Release basic transaction origin prediction
+* 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
+* 2/28 - Release basic transaction origin prediction
 
 #### v1.1.0
-1. 3/31 - Relesae shadow CT with end-to-end functionality, Meerkat v1.1.0
+* 3/31 - Relesae shadow CT with end-to-end functionality, Meerkat v1.1.0
 
 ### RECENTLY COMPLETED
 #### Matt
