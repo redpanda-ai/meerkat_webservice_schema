@@ -2,20 +2,20 @@
 #### Meerkat Team, Andy
 1.  v1.0.0 (due 2/28)
 	* - [ ] Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
-	* Underway - Work with Program Managment
+	* - [x] Underway - Work with Program Managment
 		* Assist with complete schedule for v1.0.0 release
-			* thoughtful plan
-			* list tasks
-			* list dependencies
-			* timeline with milestones
+			* - [x] thoughtful plan
+			* - [x] list tasks
+			* - [x] list dependencies
+			* - [x] timeline with milestones
 
 2.  v1.1.0 (due 3/31)
 	* Begins 3/1 - Work with Program Management
-		* Assist with complete schedule for v1.1.0 release
-			* thoughtful plan
-			* list tasks
-			* list dependencies
-			* timeline with milestones
+		* - [ ] Assist with complete schedule for v1.1.0 release
+			* - [ ] thoughtful plan
+			* - [ ] list tasks
+			* - [ ] list dependencies
+			* - [ ] timeline with milestones
 	* Due 3/31 - Think of a way to process set of "deep clean" regular expressions.
 		* Each bundle of regex expressions will serve as a merchant classifier
 		* Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
