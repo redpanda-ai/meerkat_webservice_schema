@@ -1,4 +1,4 @@
-### RECENTLY COMPLETED 2/24
+### RECENTLY COMPLETED
 	1. 2/24
 		A. Matt
 			* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
