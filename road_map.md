@@ -1,46 +1,13 @@
 #COMPLETED
 
-#1.  Finish personal self-assessment
-#2.  Upgrade Matt's self-assessment
-#4.  Get the labeling demonstrated
-#5.  Confirm that the delivery of the web service is good, as per Richa
-#7.  Obtain documentation for how to deploy for Richa.
-#8.  List of knowns and unknowns about Meerkat by monday morning to Chris.
-#9.  List the layers of the technology stack for Chris by Monday morning
-
-# Completed 2/10 1.  Get the extra column for GPANEL2 up and running so that we don’t fail to meet commitments on this newest version of the panel.
-# Completed 2/10 3.  Get YSO rolling on giving ProPalms access for 3 more labelers in IAE so that we don’t fail to meet our 2/28 deadline for building a transaction origin classifier.
-# Completed 2/10 1.  Need to provide access to Meerkat web service API to Saurubh and Richa.
-
-# Completed 2/12 DONE:8.  Deepu needs s3 access
-# Completed 2/13 0.  Andy - Nikhil needs to know by 3PM if you have time to help with SCData's permissions
-
-#4.  Andy - DELAYED - Hard commit Monday at 9AM - Filling out YSO forms so that we can continue to use GitHub for source control because we need that tool as much as anything else in our technology stack.
-#0. Completed 2/13  Matt - Web Service seems broken
-#1. Manik - Partially done -  Platform engineering needs some tips, not new logs, schedule a meeting and offer suggestions.
-#6. Failed 2/17 Tom - Following up on Zac Stewart’s candidacy to join the team, so that we have the bandwidth to actually finish things on time in 2015.  This is finishing up and we got Zac Stewart.
-
-# Completed - Agreed to speak to brian conerning the labeling tool, to get them to open up.
-#Restart the daemon
-#Sanjay has a concern about
-
-#Get moving ont the dumb integration.  1336
-#Finished a dummy one tomorrow.
-
-#Get Sanjay moving on
-#!!! START writing down expectations and deadlines
-
-		# Completed 1-18 A. GitHub assessment form, Brian made the request
-		# Rejected 1-18 C. Work with Tom to figure out the status of the Job Description, before I make one for Debi and HR.
-
-RECENTLY COMPLETED
-	2/24
-		Matt
-			Compare the lists make sure that Platform's list, ensure no typos
-		Andy
-			Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
-			Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
-			Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
+# RECENTLY COMPLETED
+	## 2/24
+		* Matt
+			* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
+		* Andy
+			* Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
+			* Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
+			* Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
 
 TASKS
 	Andy
