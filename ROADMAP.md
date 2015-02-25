@@ -37,10 +37,11 @@
 			i.  Requires Operations, Platform, QA, and the Meerkat team
 
 ### AGREEMENTS / DEADLINES
-	__v1.0.0__
-		A. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
-		B. 2/28 - Release basic transaction origin prediction
-	__v1.1.0__
+#### v1.0.0
+1. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
+2. 2/28 - Release basic transaction origin prediction
+
+#### v1.1.0
 		C. 3/31 - Relesae shadow CT with end-to-end functionality, Meerkat v1.1.0
 
 ### RECENTLY COMPLETED
