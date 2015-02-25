@@ -45,10 +45,10 @@
 
 ### RECENTLY COMPLETED
 #### Matt
-		* Compare the lists of txn_type and txn_sub_type labels between Platform and Meerkat
-		* Add semantic versioning for the v1.0.0 version of Meerkat
+* Compare the lists of txn_type and txn_sub_type labels between Platform and Meerkat
+* Add semantic versioning for the v1.0.0 version of Meerkat
 #### Andy
-		* Deploy Meerkat v1.0.0 to production VPC
-		* Set up a distribution list or equivalent for labels
-		* Obtain agreement on requiring "ledger_entry" in meerkat web service v1.0.0
+* Deploy Meerkat v1.0.0 to production VPC
+* Set up a distribution list or equivalent for labels
+* Obtain agreement on requiring "ledger_entry" in meerkat web service v1.0.0
 
