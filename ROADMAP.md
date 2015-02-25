@@ -2,18 +2,20 @@
 	1. Meerkat Team, Andy
 		__v1.0.0__ (due 2/28)
 		A. Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
-		B. Work with Richa
-			1. Provide you with a complete schedule for transaction origin classifier
+		B. Underway - Work with Richa
+			1. Assist with complete schedule for v1.0.0 release
 				a.  thoughtful plan
 				b.  list tasks and dependencies
 				c.  timeline with milestones
+				d.  list dependencies
 
 		__v1.1.0__ (due 3/31)
-		C. Due 3/7 - Work with Richa
-			1. Provide you with a complete schedule for real-time Shadow Clustering Tool
+		C. Begins 3/1 - Work with Richa
+			1. Assist with complete schedule for v1.1.0 release
 				a.  thoughtful plan
 				b.  list tasks and dependencies
 				c.  timeline with milestones
+				d.  list dependencies
 		D. Due 3/31 - Think of a way to process set of "deep clean" regular expressions.
 			1.  Each bundle of regex expressions will serve as a merchant classifier
 			2.  Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
