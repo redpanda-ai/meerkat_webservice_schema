@@ -17,7 +17,7 @@
 			* - [ ] list tasks
 			* - [ ] list dependencies
 			* - [ ] timeline with milestones
-	* Due 3/31 - Think of a way to process set of "deep clean" regular expressions.
+	* Due 3/31 - Think of a way to process set of ***deep clean*** regular expressions.
 		* Each bundle of regex expressions will serve as a merchant classifier
 		* Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
 
