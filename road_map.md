@@ -1,4 +1,4 @@
-## RECENTLY COMPLETED 2/24
+### RECENTLY COMPLETED 2/24
 	1. 2/24
 		A. Matt
 			* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
@@ -7,7 +7,7 @@
 			* Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
 			* Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
 
-## TASKS
+### TASKS
 	1. Andy
 		__SOON__
 		A. Due 2/25 - Launch a Meerkat daemon to handle CT testing data
@@ -43,7 +43,7 @@
 		A.  Get the labelers back on task
 		B. Spread around findings from the labelers, the more the merrier.
 
-## AGREEMENTS / DEADLINES
+### AGREEMENTS / DEADLINES
 	A. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
 	B. 2/25 - Update the Meerkat daemon to give CT testing data.
 	C. 2/27 - Complete Update for column placement in Meerkat gpanel_v2
@@ -51,7 +51,7 @@
 	E. 2/28 - Reduce EC2 infrastructure for Meerkat to 50 nodes.
 	F. 3/31 - Relesae shadow CT with end-to-end functionality
 
-## NOTES
+### NOTES
 	A. Shaja and his data scientists would prefer checkbox to radio button on labeling tool.
 	B. Tom has observed that our error rate is good but that they are not unifornly distributed within the panel if you look at "per-merchant" metrics
 
