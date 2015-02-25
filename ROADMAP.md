@@ -55,6 +55,6 @@
 
 #### Andy
 * Deploy Meerkat v1.0.0 to production VPC :+1:
-* Set up a distribution list or equivalent for labels
+* Set up a distribution list or equivalent for labels #21
 * Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
 
