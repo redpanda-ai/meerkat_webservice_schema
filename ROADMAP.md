@@ -1,7 +1,7 @@
 ### TASKS
 #### Meerkat Team, Andy
 1.  v1.0.0 (due 2/28)
-	* Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
+	* - [ ] Due 2/25 - Ensure that Platform and QA can move on testing and integration Meerkat v1.0.0
 	* Underway - Work with Program Managment
 		* Assist with complete schedule for v1.0.0 release
 			* thoughtful plan
