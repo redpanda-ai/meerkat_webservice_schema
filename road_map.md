@@ -1,11 +1,11 @@
 RECENTLY COMPLETED 2/24
 =======================
 	1. Matt
-		* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
+		A. Compare the lists make sure that Platform version of list can be compared to the Meerkat version
 	2. Andy
-		* Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
-		* Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
-		* Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
+		A. Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
+		B. Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
+		C. Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
 
 TASKS
 =====
@@ -39,17 +39,13 @@ TASKS
 			1.  Each bundle of regex expressions will serve as a merchant classifier
 			2.  Nikhil is heading up a team of interns and data analysts to build it in Q1 and Q2.
 
-	Matt
-		SOON
-			A.  Get the labelers back on task
-		2. Spread around findings from the labelers, the more the merrier.
-
-1.  Performance tuned the elasticsearch cluster, 29 
-2.  IAE labeling seems to be progressing, but we have a few notes.
-3.  Deployment window tonight for newest version of Meerkat which included transaction origin classifier.
-4.  Up to bat, 
+	2.  Matt
+		__SOON__
+		A.  Get the labelers back on task
+		B. Spread around findings from the labelers, the more the merrier.
 
 AGREEMENTS / DEADLINES
+======================
 	B. 2/25 - Partially done, Does QA need a separate env? - Agree to get testing version of Meerkat
 	C. 2/25 - Update the Meerkat daemon to give CT testing data.
 	D. 2/27 - Complete Update for column placement in Meerkat gpanel_v2
@@ -57,17 +53,8 @@ AGREEMENTS / DEADLINES
 	G. 2/28 - Reduce EC2 infrastructure for Meerkat to 50 nodes.
 	H. 3/31 - Relesae shadow CT with end-to-end functionality
 
-NOTES:
-	1. Shaja and his data scientists would prefer checkbox to radio button on labeling tool.
-	2. Tom has observed that our error rate is good but that they are not unifornly distributed within the panel if you look at "per-merchant" metrics
-	3. Home Security - Drop-cam, camera with sensors and stream video to your phone. motion sensors zwave, virulite
-	4. Ponder why we couldn't hit end of Feb and March.
-	5. Anand recommends 'Imitation Game" on Netflix.
-
-PLANS:
-CT Shadow and Transaction Origin
-	A week or two labeling, a day fiddling.
-	We should have the multi-class classifier.
-	Schedule an end-to-end test.
-	So we'll have the CT replacement.
+NOTES
+=====
+	A. Shaja and his data scientists would prefer checkbox to radio button on labeling tool.
+	B. Tom has observed that our error rate is good but that they are not unifornly distributed within the panel if you look at "per-merchant" metrics
 
