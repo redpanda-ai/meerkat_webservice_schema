@@ -3,7 +3,7 @@
 		A. Matt
 			* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
 		B. Andy
-			* Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
+			* Deploy Meerkat v1.0.0 to production VPC
 			* Set up a distribution list or equivalent for labels
 			* Obtain agreement on requiring "ledger_entry" in meerkat web service v1.0.0
 
