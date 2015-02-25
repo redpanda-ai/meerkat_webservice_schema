@@ -4,8 +4,8 @@
 			* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
 		B. Andy
 			* Deploy Early integration with the platform, Plan to put bogus data into transaction origin type and subtype.
-			* Set up a distribution list or equivalent for labels, as they affect Richa, Saurubh, and Siva and their platform delivery.
-			* Obtain agreement to require "ledger_entry" in meerkat web service input_schema in production
+			* Set up a distribution list or equivalent for labels
+			* Obtain agreement on requiring "ledger_entry" in meerkat web service v1.0.0
 
 ### TASKS
 	1. Andy
