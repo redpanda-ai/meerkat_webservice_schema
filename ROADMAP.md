@@ -36,6 +36,7 @@
 		* - [ ] Determine which VPC the test environment is in, either dev or production
 	* - [ ] Schedule a meeting to go over the transition from the pre-release version of Meerkat to v1.0.0
 		* Required Attendees - Operations, Platform, QA, and the Meerkat team
+	* - [ ] Ask Platform Engineering to provide a document similar to this one for their work
 
 ### AGREEMENTS / DEADLINES
 #### v1.0.0
