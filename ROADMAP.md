@@ -23,18 +23,19 @@
 ### DEPENDENCIES
 #### v1.0.0 (due 2/28)
 1.  Platform Team, Saurabh
-	A.  Initiate standard change management process
-		i.  Change request for load balancer
-		ii. Decide when/whether to terminate the pre-release front-end instances
+	* Initiate standard change management process
+		* Change request for load balancer
+		* Decide when/whether to terminate the pre-release front-end instances
 2.  Operations Team, Bibek
-	A.  Be ready to support the Platform Team
-		i.  Will the mechanism be change requests?  How do we streamline this?
+	* Be ready to support the Platform Team
+	* Will the mechanism be change requests?
+	* How do we streamline this?
 3.  Program Managment, Richa
-	A. Schedule a meeting with to figure out what our QA test environment is for integration
-		i.  Requires QA, Platform, and the Meerkat team.
-		ii. Find out which VPC the test environment is in, either dev VPC or production VPC 
-	B. Schedule a meeting to go over the transition from the pre-release version of Meerkat to v1.0.0
-		i.  Requires Operations, Platform, QA, and the Meerkat team
+	* Schedule a meeting with to figure out what our QA test environment is for integration
+		* Requires QA, Platform, and the Meerkat team.
+		* Find out which VPC the test environment is in, either dev VPC or production VPC 
+	* Schedule a meeting to go over the transition from the pre-release version of Meerkat to v1.0.0
+		* Requires Operations, Platform, QA, and the Meerkat team
 
 ### AGREEMENTS / DEADLINES
 #### v1.0.0
