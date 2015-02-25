@@ -1,6 +1,5 @@
-RECENTLY COMPLETED
-==================
-__2/24__
+RECENTLY COMPLETED 2/24
+=======================
 	1. Matt
 		* Compare the lists make sure that Platform version of list can be compared to the Meerkat version
 	2. Andy
