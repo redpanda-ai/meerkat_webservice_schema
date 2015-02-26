@@ -50,8 +50,8 @@
 
 ### RECENTLY COMPLETED
 #### Matt
-* Compare the lists of ***txn_type*** and ***txn_sub_type*** labels between Platform and Meerkat
-* Add semantic versioning for the v1.0.0 version of Meerkat
+* :one: Compare the lists of ***txn_type*** and ***txn_sub_type*** labels between Platform and Meerkat
+* :two: Add semantic versioning for the v1.0.0 version of Meerkat
 
 #### Andy
 * :one: Deploy Meerkat v1.0.0 to production VPC 
