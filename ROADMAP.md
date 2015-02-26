@@ -52,7 +52,7 @@
 * Add semantic versioning for the v1.0.0 version of Meerkat
 
 #### Andy
-* Ensured that QA had a valid testing environment
+* Ensured that QA had a valid testing environment for v1.0.0
 * Deploy Meerkat v1.0.0 to production VPC :+1:
 * Set up a [distribution list] (https://github.com/joeandrewkey/meerkat_webservice_schema/issues/21) or equivalent for labels
 * Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
