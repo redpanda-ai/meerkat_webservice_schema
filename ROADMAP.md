@@ -50,11 +50,11 @@
 
 ### RECENTLY COMPLETED
 #### Matt
-* :one: Compare the lists of ***txn_type*** and ***txn_sub_type*** labels between Platform and Meerkat
-* :two: Add semantic versioning for the v1.0.0 version of Meerkat
+* Compare the lists of ***txn_type*** and ***txn_sub_type*** labels between Platform and Meerkat
+* Add semantic versioning for the v1.0.0 version of Meerkat
 
 #### Andy
-* :one: Deploy Meerkat v1.0.0 to production VPC 
-* :two: Set up a [distribution list] (https://github.com/joeandrewkey/meerkat_webservice_schema/issues/21) or equivalent for labels
-* :three: Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
+* Deploy Meerkat v1.0.0 to production VPC :+1:
+* Set up a [distribution list] (https://github.com/joeandrewkey/meerkat_webservice_schema/issues/21) or equivalent for labels
+* Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
 
