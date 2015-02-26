@@ -41,12 +41,10 @@
 
 ### AGREEMENTS / DEADLINES
 #### v1.0.0
-* 2/25 - Underway
-	* Does QA need a separate env?
 * 2/28 - Release basic transaction origin prediction
 
 #### v1.1.0
-* 3/31 - Relesae shadow CT with end-to-end functionality, Meerkat v1.1.0
+* 3/31 - Release shadow CT with end-to-end functionality, Meerkat v1.1.0
 
 ### RECENTLY COMPLETED
 #### Matt
@@ -54,7 +52,9 @@
 * Add semantic versioning for the v1.0.0 version of Meerkat
 
 #### Andy
+* Ensured that QA had a valid testing environment
 * Deploy Meerkat v1.0.0 to production VPC :+1:
 * Set up a [distribution list] (https://github.com/joeandrewkey/meerkat_webservice_schema/issues/21) or equivalent for labels
 * Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
+
 
