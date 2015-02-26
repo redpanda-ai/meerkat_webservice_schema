@@ -54,7 +54,7 @@
 * Add semantic versioning for the v1.0.0 version of Meerkat
 
 #### Andy
-* :+1: Deploy Meerkat v1.0.0 to production VPC 
-* Set up a [distribution list] (https://github.com/joeandrewkey/meerkat_webservice_schema/issues/21) or equivalent for labels
-* Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
+* :one: Deploy Meerkat v1.0.0 to production VPC 
+* :two: Set up a [distribution list] (https://github.com/joeandrewkey/meerkat_webservice_schema/issues/21) or equivalent for labels
+* :three: Obtain agreement on requiring ***ledger_entry*** in meerkat web service v1.0.0
 
