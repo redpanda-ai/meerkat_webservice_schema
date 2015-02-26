@@ -1,7 +1,7 @@
 ### TASKS
 #### v1.0.0 *(scheduled for 2/28)*
 1.  **Meerkat Team**, Andy
-	* - [ ] Due 2/25 - Ensure that Platform and QA can move on integrating and testing v1.0.0, respectively
+	* - [x] Due 2/25 - Ensure that Platform and QA can move on integrating and testing v1.0.0, respectively
 	* - [x] Underway - Work with Program Managment
 		* Assist with complete schedule for v1.0.0 release
 			* - [x] thoughtful plan
@@ -34,7 +34,7 @@
 3.  **Program Managment**, Richa
 	* - [x] Schedule a meeting with to figure out what our QA test environment is for integration
 		* Required Attendees - QA, Platform, Meerkat.
-		* - [ ] Determine which VPC the test environment is in, either dev or production
+		* - [x] Determine which VPC the test environment is in, either dev or production
 	* - [ ] Schedule a meeting to go over the transition from the pre-release version of Meerkat to v1.0.0
 		* Required Attendees - Operations, Platform, QA, and the Meerkat team
 	* - [ ] Ask Platform Engineering to provide a document similar to this one for their work
